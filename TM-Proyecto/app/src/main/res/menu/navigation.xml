@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/navigation_asistencia"
+        android:icon="@drawable/qr_code"
+        android:title="Asistencia" />
+
+    <item
+        android:id="@+id/navigation_verasistencia"
+        android:icon="@drawable/assistance"
+        android:title="Ver Asistencia" />
+
+    <item
+        android:id="@+id/navigation_help"
+        android:icon="@drawable/help"
+        android:title="Ayuda" />
+
+</menu>
